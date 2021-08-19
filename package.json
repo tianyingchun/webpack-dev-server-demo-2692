@@ -1,0 +1,23 @@
+{
+  "name": "webpack-dev-server-demo-2692",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianyingchun/webpack-dev-server-demo-2692.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianyingchun/webpack-dev-server-demo-2692/issues"
+  },
+  "homepage": "https://github.com/tianyingchun/webpack-dev-server-demo-2692#readme",
+  "dependencies": {
+    "webpack": "^5.51.0",
+    "webpack-dev-server": "^4.0.0"
+  }
+}
